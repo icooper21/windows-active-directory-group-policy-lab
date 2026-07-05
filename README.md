@@ -88,15 +88,15 @@ This lab simulates common enterprise system administration tasks, including user
 
 ### Active Directory Users and Computers
 
-![Active Directory](Screenshots/Active%20Directory.png)
+![Active Directory](Screenshots/Active-Directory.PNG)
 
 ### Group Policy Management
 
-![Group Policy Management](Screenshots/Group%20Policy%20Management.png)
+![Group Policy Management](Screenshots/Group-Policy-Management.PNG)
 
 ### Group Policy Restriction Verification
 
-![Restrictions](Screenshots/Restrictions.png)
+![Restrictions](Screenshots/Restrictions-Message.png)
 
 ## 🎓 Skills Demonstrated
 
