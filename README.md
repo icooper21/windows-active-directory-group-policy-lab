@@ -1,4 +1,3 @@
-# windows-active-directory-group-policy-lab
 Windows Server Active Directory and Group Policy lab demonstrating OU structure, user/group management, GPO enforcement, and domain troubleshooting.
 # Windows Server Active Directory & Group Policy Lab
 
@@ -88,15 +87,15 @@ This lab simulates common enterprise system administration tasks, including user
 
 ### Active Directory Users and Computers
 
-![Active Directory](Screenshots/Active-Directory.PNG)
+![Active Directory](Screenshots/Active%20Directory.PNG)
 
 ### Group Policy Management
 
-![Group Policy Management](Screenshots/Group-Policy-Management.PNG)
+![Group Policy Management](Screenshots/Group%20Policy%20Management.PNG)
 
 ### Group Policy Restriction Verification
 
-![Restrictions](Screenshots/Restrictions-Message.png)
+![Restrictions](Screenshots/Restrictions%20Message.png)
 
 ## 🎓 Skills Demonstrated
 
